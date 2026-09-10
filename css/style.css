@@ -3,11 +3,12 @@
 
 body {
   margin: 0;
+  background-color: blanchedalmond;
   }
 
 /****************   Nav Section **********************/
 nav {
-	background-color: rgb(216, 148, 75, 0.66);
+	background-color: rgba(170, 96, 17, 0.66);
   padding: .5rem;
   display: flex;
   justify-content: space-between;
@@ -15,8 +16,8 @@ nav {
 
 /***********************  Footer Section   **************************/
 footer {
-	background-color: rgba(216, 148, 75, 0.66);
-  padding: .5rem;
+	background-color: rgba(170, 96, 17, 0.66);
+  padding: .3rem;
   display: flex;
   justify-content: center;
 }
